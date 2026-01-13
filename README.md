@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Deepak Pandey
+# 👋 Hi, I'm Deepak Panday
 
 🚀 Senior Network, Cloud & DevOps Engineer | Azure | GCP | Security | GPU Infrastructure
 
