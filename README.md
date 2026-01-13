@@ -74,4 +74,4 @@ Azure, GCP, on-prem data centers, and AI/GPU environments.
 
 ## 📫 Contact
 - Email: pandeydp05@gmail.com
-- LinkedIn: (add link here)
+- LinkedIn:https://www.linkedin.com/in/deepak-panday-821814156/
